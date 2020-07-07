@@ -1,0 +1,78 @@
+.pink-bg{
+    background-color: #fceae8;
+    border-radius: 10px;
+}
+.carousel-item{
+    padding:20px 40px;
+}
+.price{
+    color: #ff136f;
+}
+.buy-now-btn{
+    background-image: linear-gradient(to bottom, #ff589b 0%, #ff136f 100%);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
+.container{
+    margin-bottom: 100px;
+}
+.cat1 {
+    background-image: linear-gradient( #ede161 0%, #f7cc1e 100%);
+}
+.cat2 {
+    background-image: linear-gradient( #e0b8c2 0%, #cf0034 100%);
+}
+.cat3{
+    background-image: linear-gradient(#7370ff 0%, #0004ff 100%);
+}
+.cat1, .cat2, .cat3 {
+    padding: 10px 30px;
+    border-radius: 10px;
+}
+.categories h1 {
+    color: white;
+}
+.categories img{
+    width: 131px;
+}
+.card {
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+    border-radius: 10px;
+}
+.card-footer{
+    background-color: white;
+    border-top: none;
+}
+#subscribe{
+    height: 300px;
+}
+.from-control{
+    display: block;
+    width: 100%;
+    height: calc(1.5em + .75rem + 2px);
+    padding: .375rem .75rem;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #495057;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1px solid #ced4da;
+    border-radius: .25rem;
+    transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+}
+.lst{
+      margin-top: 5px;
+}
+#subscribe h6{
+    color: grey;
+}
+footer{
+    text-align: center;
+    color: grey;
+    font-size: 13px;
+}
